@@ -76,6 +76,21 @@ Interesting features:
 - Multiple dispatch
 - First-class types
 
+### Zig
+Tags: AOT, Static, Strongly typed, Imperative, Compile-time
+
+Interesting features:
+- `@import` macro constructs a structure representing contents of import
+- Dedicated error type syntax
+- 16 bit and 128 bit floats
+- First-class types, but only at compile time
+- Dedicated testing syntax
+- Dedicated operators for overflow behavior of arithmetic
+- Built-in vector types
+- All structs are anonymous
+- Defer to end of scope
+- Extensive compile-time operations
+
 ## Historical
 
 ### C

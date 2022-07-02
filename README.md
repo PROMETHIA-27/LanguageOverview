@@ -113,3 +113,17 @@ Interesting features:
 - n-Dimensional arrays and slicing
 - Tagged unions
 - Custom operators
+
+## Weird
+### Pawn
+Tags: JIT, Untyped, Imperative, Procedural
+
+Interesting features:
+- Small, capable of embedding
+- Aimed at non-expert programmers
+- Semicolons optional, but required for multi-statement lines
+- Deterministic
+- State machines are a language construct
+
+Notes:
+  This is basically like C but with the jank stripped out. If it only had pointers- which it doesn't- I would say we should use this instead of C to teach beginners. Honestly might be a decent idea anyway.

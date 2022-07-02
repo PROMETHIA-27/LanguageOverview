@@ -124,6 +124,10 @@ Interesting features:
 - Semicolons optional, but required for multi-statement lines
 - Deterministic
 - State machines are a language construct
+- Tags as a replacement for a type system
+- Sandboxed
+- Has a [.net wrapper](https://github.com/rybakatchya/Pawn.Net)
+- Integer-only. Can support floating point using native functions
 
 Notes:
-  This is basically like C but with the jank stripped out. If it only had pointers- which it doesn't- I would say we should use this instead of C to teach beginners. Honestly might be a decent idea anyway.
+  This is basically like C but with the jank and everything except integers stripped out. It's almost like what I would want to teach beginners programming, but it's missing too many things and adds ones that aren't as important.

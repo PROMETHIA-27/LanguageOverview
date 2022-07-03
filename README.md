@@ -131,3 +131,13 @@ Interesting features:
 
 Notes:
   This is basically like C but with the jank and everything except integers stripped out. It's almost like what I would want to teach beginners programming, but it's missing too many things and adds ones that aren't as important.
+  
+### Whiley
+Tags: Functional, Imperative, Contracts, JIT?, Borrow Checker?
+
+Interesting features:
+- Pythonic syntax
+- Reflection? Maybe?
+- Pre and post-conditions of functions
+- Emphasis on safety
+- Nice type system
